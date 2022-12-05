@@ -1,0 +1,11 @@
+
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿìºøHRMINORZ
+CODE_SMELL
+‘
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(••‚¡øÿÿÿÿ8§ş›ï¸0H‚RMINORZ
+CODE_SMELL
+J
+java:S1700"Rename field "dni"(ªÍËÅüÿÿÿÿ8„¯€ğ·0H„RMAJORZ
+CODE_SMELL
+p	java:S106C"9Replace this use of System.out or System.err by a logger.(±ÆêÙÿÿÿÿÿ8§ş›ï¸0H…RMAJORZ
+CODE_SMELL

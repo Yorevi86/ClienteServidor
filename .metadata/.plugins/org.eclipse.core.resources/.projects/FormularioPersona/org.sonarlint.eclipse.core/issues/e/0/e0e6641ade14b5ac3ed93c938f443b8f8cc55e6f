@@ -1,0 +1,22 @@
+
+a
+java:S1121V".Extract the assignment out of this expression.(æý¿Œ8Ô¼ªÍÀ0HåRMAJORZ
+CODE_SMELL
+o
+java:S6353?"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ÿžˆ×8©§çÇÀ0HæRMINORZ
+CODE_SMELL
+a
+java:S1121Z".Extract the assignment out of this expression.(æý¿Œ8Ô¼ªÍÀ0HçRMAJORZ
+CODE_SMELL
+ƒ	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ø˜†8Ÿ¾üÈÀ0HèRMINORZ
+CODE_SMELL
+k	java:S106R"9Replace this use of System.out or System.err by a logger.(»——Ë8Ò„öêÁ0HéRMAJORZ
+CODE_SMELL
+ƒ	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿžˆ×8Ÿ¾üÈÀ0HêRMINORZ
+CODE_SMELL
+m
+java:S1854Z":Remove this useless assignment to local variable "result".(æý¿Œ8Ô¼ªÍÀ0HëRMAJORZ
+CODE_SMELL
+m
+java:S1854V":Remove this useless assignment to local variable "result".(æý¿Œ8Ô¼ªÍÀ0HìRMAJORZ
+CODE_SMELL

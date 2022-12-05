@@ -1,0 +1,10 @@
+
+|
+java:S1192"FDefine a constant instead of duplicating this literal "index" 3 times.(Á·‹ÿ8‡ÎÅ†Æ0HÈRCRITICALZ
+CODE_SMELL
+b
+java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ÕÍ†Æ0HÌRMINORZ
+CODE_SMELL
+v
+java:S1128">Remove this unused import 'java.net.http.HttpClient.Redirect'.(½‘Şñûÿÿÿÿ8ÕÍ†Æ0HÎRMINORZ
+CODE_SMELL

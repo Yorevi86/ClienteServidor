@@ -1,0 +1,19 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¿í´öıÿÿÿÿHïRMAJORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "num1" local variable.(›á†şÿÿÿÿ8èàíğ·0HğRMINORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(ü¸ØÉøÿÿÿÿ8†Şğ·0HòRMAJORZ
+CODE_SMELL
+[
+java:S1481")Remove this unused "num2" local variable.(’šß18èàíğ·0HóRMINORZ
+CODE_SMELL
+j	java:S1060"9Replace this use of System.out or System.err by a logger.(©Ù8ªòœñ·0HõRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(´»ğàıÿÿÿÿ8èàíğ·0HöRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(¿À¨¾şÿÿÿÿ8Ôê‹ğ·0HÿRMAJORZ
+CODE_SMELL
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(ó•„8ªòœñ·0H€RMAJORZ
+CODE_SMELL
